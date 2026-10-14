@@ -1,6 +1,7 @@
 # زندگی‌آرام — LifeFlow
 
 A Persian-language, installable, fully offline-capable life-management Progressive Web App (PWA) — tasks with real recurrence scheduling (daily / weekly-on-specific-days / monthly / yearly), an Eisenhower matrix, kanban board, timeline/time-blocking view, study & reading tracker, fitness log, a learning-projects hub, journaling, gamification (XP, levels, badges), and a "liquid glass" galaxy-themed UI.
+if you want to use it open this link 🔗 https://life-flow.jhack-content.workers.dev/
 
 **🇬🇧 [English](#-english)** · **🇮🇷 [فارسی](#-فارسی)**
 
